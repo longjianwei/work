@@ -34,3 +34,6 @@
 [Sun Apr 19 15:09:04.350563 2015] [:error] [pid 1781:tid 140454794348288] [client 221.216.35.35:30070] PHP Fatal error:  Call to undefined function mysql_connect() in /home/longjianwei/work/one.php on line 11
 [Sun Apr 19 15:09:51.652573 2015] [:error] [pid 1183:tid 140454815328000] [client 221.216.35.35:30086] PHP Fatal error:  Call to undefined function mysql_connect() in /home/longjianwei/work/one.php on line 11
 [Sun Apr 19 15:10:52.467040 2015] [:error] [pid 1781:tid 140454783858432] [client 221.216.35.35:30105] PHP Notice:  Undefined variable: gd in /home/longjianwei/work/one.php on line 21
+[Sun Apr 19 15:27:07.738555 2015] [:error] [pid 1181:tid 140697985079040] [client 221.216.35.35:30119] PHP Notice:  Undefined variable: gd in /home/longjianwei/work/one.php on line 21
+[Sun Apr 19 15:27:10.350489 2015] [:error] [pid 1181:tid 140697985079040] [client 221.216.35.35:30119] PHP Notice:  Undefined variable: gd in /home/longjianwei/work/one.php on line 21
+[Sun Apr 19 15:31:09.650686 2015] [:error] [pid 1180:tid 140697974589184] [client 209.95.46.4:43036] script '/home/longjianwei/work/check_proxy.php' not found or unable to stat
