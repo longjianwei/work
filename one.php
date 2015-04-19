@@ -28,7 +28,10 @@
 
     echo "<table align = center cellspacing = 0 cellspacing = 0>";
     echo "<caption><h2>系统信息</h2> </caption>";
-
+    echo "Web服务器:".$sysos;
+    echo "PHP版本号:".$sysversion;
+    
+    
  ?>
 </body>
 </html>
