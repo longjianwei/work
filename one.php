@@ -8,7 +8,7 @@
     $sysos = $_SERVER["SERVER_SOFTWARE"];              // 获取服务器标识的字符串
     $sysversion = PHP_VERSION;                         // 获取php服务器版本号
     
-    mysql_connect("localhost","root","root");
+   $sql = mysql_connect("localhost","root","root");
     $mysqlinfo = mysql_get_server_info();
     
     if(function_exists("gd_info")){
