@@ -21,3 +21,6 @@
 [Sun Apr 19 10:14:39.028427 2015] [:error] [pid 7336:tid 139856795600640] [client 221.216.35.35:30031] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/longjianwei/work/index.php on line 3
 [Sun Apr 19 10:14:51.503059 2015] [:error] [pid 7337:tid 139856931968768] [client 119.147.146.189:49227] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/longjianwei/work/index.php on line 3
 [Sun Apr 19 10:36:09.440849 2015] [:error] [pid 7671:tid 140076692518656] [client 209.95.46.4:33644] script '/home/longjianwei/work/check_proxy.php' not found or unable to stat
+[Sun Apr 19 11:56:46.070348 2015] [:error] [pid 7670:tid 140076682028800] [client 209.95.46.4:51241] script '/home/longjianwei/work/check_proxy.php' not found or unable to stat
+[Sun Apr 19 13:12:44.882229 2015] [:error] [pid 7753:tid 140076640069376] [client 209.95.46.4:34333] script '/home/longjianwei/work/check_proxy.php' not found or unable to stat
+[Sun Apr 19 13:59:56.994538 2015] [:error] [pid 7671:tid 140076629579520] [client 209.95.46.4:53984] script '/home/longjianwei/work/check_proxy.php' not found or unable to stat
