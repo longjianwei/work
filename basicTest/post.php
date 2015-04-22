@@ -6,7 +6,7 @@
     <?php 
         echo "<h1>add message to post_add.php<h2><br>";
     ?>
-    <table align = "center" bgcolor ="#ccc" width ="500" border = "1">     
+    <table align = "center" bgcolor ="#9999" width ="500" border = "1">     
     <form action = "post_add.php" method = "post">
 <div>
     <tr><td> 编号：</td><td><input type = "text" name = "id" size="auto"></td></tr>
