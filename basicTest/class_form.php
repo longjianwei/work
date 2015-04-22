@@ -21,6 +21,8 @@
             
             switch($this->request["action"]){
                 case 1:
+                    $this->request['height'] = 0; 
+                    $this->request['width'] = 0; 
                     $str.='<tr><th>矩形的高度：</th><td>';
                     $str.='<input type ="text" name ="height" value ='.$this->request["height"].'>';
                     $str.='</td></tr>';
