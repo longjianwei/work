@@ -17,11 +17,15 @@
             <h3>以下实现简单xml生成</h3>
             <pre>
             <?php
-                $arr = array("id"=>1,"name"=>'abc','phone'=>'123456');
+                $arr = array("id"=>1,"name"=>'abc','phone'=>'123456','scend'=>array(1=>01,"abc"=>02,'name'=>'longjianweii'));
                 Cxmlandjson::xmlEncode(200,"加载数据成功",$arr);
             ?>
-            </pre>    
+            </pre>
+            <p>因xml文件不能包括其他文件只实现上述点击查看源码才能看到结构</p>
+            <a href = "http://182.92.164.167:8090/basicTest/Cxmlandjson.php">查看单独实现xml效果
+            </a>||<a href="http://182.92.164.167:8090/basicTest/sanweiarrayForech.php">三维数组遍历             </a>|| <a href="http://182.92.164.167:8090/basicTest/ForeachDir.php">查看实现文件遍历</a> || <a href = "http://182.92.164.167:8090/basicTest/view_class.php">面向对象实现基本图形计算</a>   
         </div>
+
         <div width =600px cellspacing = "0" cellpadding = "0">
             <h3>以下实现简单json生成</h3>
             <?php 
