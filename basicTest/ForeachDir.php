@@ -16,7 +16,7 @@
                 $bgcolor = '#ccc';
             }
             echo '<tr bgcolor ='.$bgcolor.'>';
-            echo '<td>'.$file.'</td>';
+            echo '<td>'.$dirfile.'</td>';
             echo '<td>'.filesize($dirfile).'</td>';
             echo '<td>'.filetype($dirfile).'</td>';
             echo '<td>'.date("Y-n-t",filemtime($dirfile)).'</td>';
