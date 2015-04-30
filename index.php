@@ -21,7 +21,7 @@
                 Cxmlandjson::xmlEncode(200,"加载数据成功",$arr);
             ?>
             </pre>
-            <p>因xml文件不能包括其他文件只实现上述点击查看源码才能看到结构</p>
+            <p>因xml文件不能包括其他文件只实现上述点击查看源码才能看到结构</p><a href="http://182.92.164.167:8090/vLive/index.php">个人实现界面</a>||
             <a href = "http://182.92.164.167:8090/basicTest/Cxmlandjson.php">查看单独实现xml效果
             </a>||<a href="http://182.92.164.167:8090/basicTest/sanweiarrayForech.php">三维数组遍历             </a>|| <a href="http://182.92.164.167:8090/basicTest/ForeachDir.php">查看实现文件遍历</a> || <a href = "http://182.92.164.167:8090/basicTest/view_class.php">面向对象实现基本图形计算</a>   
         </div>
